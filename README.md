@@ -1,2 +1,2 @@
-# 100-days-of-python
-My coding journey - a project each day
+# Python learning projects
+My learning projects in Python
